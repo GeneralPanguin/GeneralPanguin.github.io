@@ -19,11 +19,13 @@ layout: default
 
 [中文版本Chinese version](./chineseversion.md)
 
+[Download my CV](./CV_Aoxuan%20WANG%20.pdf)
+
 ## About Me
 
-Hi! Welcome to my website. My name is Aoxuan Wang. (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) I have strong interest in combining machine learning with finance, and I am seeking any PhD position relating to this domain. My master dissertation is also about this – applying machine learning to analyse American option pricing.
+Hi! Welcome to my website. My name is Aoxuan Wang. (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) I have strong interest in combining machine learning with finance, and I am seeking any PhD position relating to this domain. My master dissertation is also about this - applying machine learning to analyse American option pricing.
 
-What make me pride most is my self-learning ability. I passed CFA level 2 and all ACCA tests, all by self-study. I also self-learned some language, such as Japanese (Luckily, my Japanese ability could support me to communicate with local people when I was in Japan), Germany, Russia, Latin and Greek. I enjoy the process of learning, and thanks to Internet, much knowledge are easy to access now. Using internet and online university, I have safaried in sociology, history, astrology, programming, mathematic, psychology and so on.
+What make me pride most is my self-learning ability. I passed [CFA level 2](https://basno.com/trteno4e) and [all ACCA tests](./ACCA%20Certificate.pdf), all by self-study. I also enjoy learing language, and self-learned some language, such as Japanese (Luckily, my Japanese ability could support me to communicate with local people when I was in Japan), Germany, Russia, Latin and Greek. I enjoy the process of learning, and thanks to Internet, much knowledge are easy to access now. Using internet and online university, I have safaried in sociology, history, astronomy, programming, biology, mathematic, psychology and so on.
 
 I also like do exercise. My favorite sport is fitness.
 
@@ -49,17 +51,17 @@ I also like do exercise. My favorite sport is fitness.
 
 
 ## Intern Experience
-Huachuang Security
+**Huachuang Security**
 <br />&emsp;_Assistant in Fixed-income Department_
 
-China Communications Materials & Equipment Co Lmt
+**China Communications Materials & Equipment Co Lmt**
 <br />&emsp;_Accounting Assistant_
 
-Research Institute of Machinery Industry Economic& Management
+**Research Institute of Machinery Industry Economic& Management**
 <br />&emsp;_Data &. Research Assistant_
 
 ## Computer skills
-Python, Stata, R, SPSS, SAS, HTML, LaTex
+Python, Stata, R, SPSS, SAS, HTML, LaTeX
 
 ## THESIS WRITING
 - The mechanism of supply chain finance operation and risk prevention and resolution - Wise China Magazine, 2021
