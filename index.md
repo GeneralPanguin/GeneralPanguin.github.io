@@ -8,7 +8,7 @@ layout: default
     </td>
     <td width="50%">
       <h1>Aoxuan Wang</h1>
-      <p><b>Contect me</b></p>
+      <h2>Contect me</h2>
       <p><b>Phone: +44 (0)7784632025 </b></p>
       <p><b>E-mail: aoxuan.wang@outlook.com</b></p>
       <p><b>linkedin.com/in/aoxuan-wang-5a74441b9</b></p>
