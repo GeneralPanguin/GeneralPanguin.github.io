@@ -1,1 +1,8 @@
-theme: jekyll-theme-architect
+title: Aoxuan Wang
+logo: /assets/img/logo.png
+description: Contect:
+  Phone: +44 (0)7784632025
+  E-mail: aoxuan.wang@outlook.com
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
