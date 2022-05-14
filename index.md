@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
 <title>Aoxuan Wang's Home Page</title>
 <meta name="author" content="Aoxouan Wang">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💻</text></svg>">  
 </head>
 
 
@@ -25,7 +24,7 @@ layout: default
     </td>
   </tr>
 </tbody></table>
-
+</html>
 
 [中文版本Chinese version](./chineseversion.md)
 
@@ -39,7 +38,7 @@ What make me pride most is my self-learning ability. I passed [CFA level 2](http
 
 I also like exercising. My favorite sport is fitness.
 
-## <img width="30px" src="./icons/research1.svg"> Interest
+## ![alt interesting](./icons/research1.svg)  Interest
 - Machine Learning &. Data Mining
 - Finance & Accounting
 - Business Analysis
