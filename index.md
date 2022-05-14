@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!DOCTYPE HTML>
+
 <html lang="en">
 <head>
 <title>Aoxuan Wang's Home Page</title>
