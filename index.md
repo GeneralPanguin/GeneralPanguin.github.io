@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 <html lang="en">
 <head>
@@ -18,7 +20,7 @@
       <p><b>Phone: +44 (0)7784632025 </b></p>
       <p><b>E-mail 1: s2154758@ed.ac.uk</b></p>
       <p><b>E-mail 2: aoxuan.wang@outlook.com</b></p>
-      <p><b>linkedin.com/in/aoxuan-wang-5a74441b9</b></p>
+      <p><b><a href="https://linkedin.com/in/aoxuan-wang-5a74441b9/">My LinkedIn Page</a></b></p>
     </td>
   </tr>
 </tbody></table>
