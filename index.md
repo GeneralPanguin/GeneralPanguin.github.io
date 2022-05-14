@@ -1,10 +1,8 @@
----
-layout: default
----
-<!DOCTYPE HTML>
+
+
 <html lang="en">
 <head>
-<title>Aoxuan Wang's Home Page</title>
+<title> Aoxuan Wang's Home Page </title>
 <meta name="author" content="Aoxouan Wang">
 </head>
 
@@ -24,6 +22,7 @@ layout: default
     </td>
   </tr>
 </tbody></table>
+</html>
 
 [中文版本Chinese version](./chineseversion.md)
 
@@ -76,4 +75,3 @@ Python, Stata, R, SPSS, SAS, HTML, LaTeX
 - Exploring the security risks of third-party payment platforms in the Internet era -Operator, 2017
 - An analysis of the survey on middle school students' consumption view and consumption behavior--Taking Beijing Haidian District as an example - Divineland, 2017
 
-</html>
