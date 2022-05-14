@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!DOCTYPE HTML>
 <html lang="en">
 <head>
 <title>Aoxuan Wang's Home Page</title>
@@ -15,8 +15,8 @@ layout: default
     <img src=".\myphoto.jpg" width="100%">      
     </td>
     <td style="padding:2.5%;width:61.8%;vertical-align:middle;border:none">
-      <h1>Aoxuan Wang</h1>
-      <h2>Contect me</h2>
+      <h1 style="border:none">Aoxuan Wang</h1>
+      <h2 style="border:none">Contect me</h2>
       <p><b>Phone: +44 (0)7784632025 </b></p>
       <p><b>E-mail 1: s2154758@ed.ac.uk</b></p>
       <p><b>E-mail 2: aoxuan.wang@outlook.com</b></p>
@@ -24,7 +24,6 @@ layout: default
     </td>
   </tr>
 </tbody></table>
-</html>
 
 [中文版本Chinese version](./chineseversion.md)
 
@@ -77,3 +76,4 @@ Python, Stata, R, SPSS, SAS, HTML, LaTeX
 - Exploring the security risks of third-party payment platforms in the Internet era -Operator, 2017
 - An analysis of the survey on middle school students' consumption view and consumption behavior--Taking Beijing Haidian District as an example - Divineland, 2017
 
+</html>
