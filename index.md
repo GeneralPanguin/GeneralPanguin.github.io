@@ -38,6 +38,8 @@ What make me pride most is my self-learning ability. I passed [CFA level 2](http
 
 I also like exercising. My favorite sport is fitness.
 
+[See My Blogs](./Blog/blog.md)
+
 ## ![alt interesting](./icons/research1.svg)  Interest
 - Machine Learning &. Data Mining
 - Finance & Accounting
