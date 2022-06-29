@@ -32,7 +32,7 @@ layout: default
 
 ## About Me
 
-Hi! Welcome to my website. My name is Aoxuan Wang.  (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) I have strong interest in combining <b>machine learning</b> with <b>finance</b>. My master dissertation is also about this - applying machine learning to analyse American option pricing.
+Hi! Welcome to my website. My name is Aoxuan Wang.  (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) I have strong interest in combining <b>machine learning</b> with <b>finance</b>, and have interest in PhD in this field. My master dissertation is also about this - applying machine learning to analyse American option pricing.
 
 What make me pride most is my self-learning ability. I passed [CFA level 2](https://basno.com/trteno4e) and [all ACCA tests](./ACCA%20Certificate.pdf), all by self-study. I also enjoy learing language, and self-learned some language, such as Japanese (Luckily, my Japanese ability could support me to communicate with local people when I was in Japan), Germany, Russia, Latin and Greek. I enjoy the process of learning, and thanks to Internet, much knowledge are easy to access now. Using internet and online university, I have safaried in sociology, history, astronomy, programming, biology, mathematic, psychology and so on.
 
