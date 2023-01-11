@@ -30,7 +30,7 @@ layout: default
 
 ## About Me
 
-Hi! Welcome to my website. My name is Aoxuan Wang,  (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) currently a PhD student in NUS Computing school. I have strong interest in combining <b>machine learning</b> with <b>finance</b>. My master dissertation is also about this - applying machine learning to analyse American option pricing.
+Hi! Welcome to my website. My name is Aoxuan Wang,  (Btw, the pronunciation of 'Aoxuan' is similar to 'Ocean'.) currently a PhD student in NUS Computing school. I have strong interest in combining <b>machine learning</b> with <b>finance</b>. My master dissertation is also about this - _applying machine learning to analyse American option pricing_.
 
 What make me pride most is my self-learning ability. I passed [CFA level 2](https://basno.com/trteno4e) and [all ACCA tests](./ACCA%20Certificate.pdf), all by self-study. I also enjoy learing language, and self-learned some language, such as Japanese (Luckily, my Japanese ability could support me to communicate with local people when I was in Japan), Germany, Russia, Latin and Greek. I enjoy the process of learning, and thanks to Internet, much knowledge are easy to access now. Using internet and online university, I have safaried in sociology, history, astronomy, programming, biology, mathematic, psychology and so on.
 
@@ -63,7 +63,7 @@ I also like exercising. My favorite sport is fitness.
 
 
 ## <img width="30px" src="./icons/experience.svg"> Intern Experience
-**CCCC Capital**
+**China Communications Construction Company (CCCC) Capital**
 <br />&emsp;_ABS Team, Financail Market Dept._
 
 **China International Capital Corporation Limited (CICC)**
